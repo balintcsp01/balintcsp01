@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balintcsp01
 - 👀 I’m interested in sport, programming, hangout with friends.
 - 🌱 I’m currently learning Full Stack programming
-- 😄 Pronouns: X
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: X
 
 <!---
